@@ -1,0 +1,8 @@
+﻿<Window x:Class="RaidAssistant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Canvas Height="143" HorizontalAlignment="Left" Margin="84,66,0,0" Name="canvas1" VerticalAlignment="Top" Width="133" />
+    </Grid>
+</Window>
